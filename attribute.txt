@@ -1,0 +1,6 @@
+age
+gender
+emotion
+
+geography - device IP
+
